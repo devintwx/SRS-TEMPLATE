@@ -1,4 +1,4 @@
-# IEEE-Tempate
+# IEEE-Template
 IEEE System Requirements Specification Template
 
 # Software Requirements Specification
